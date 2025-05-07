@@ -1,0 +1,28 @@
+{
+  "name": "softsell-website",
+  "version": "1.0.0",
+  "description": "A responsive single-page marketing website for SoftSell, a fictional software resale startup.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "website",
+    "marketing",
+    "software resale"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "vite": "^2.6.4",
+    "@vitejs/plugin-react": "^1.0.0"
+  }
+}
